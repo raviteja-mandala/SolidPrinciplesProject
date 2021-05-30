@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.zemoso.executables.WithSolidPrinciples
+Class-Path: /home/ravitm/IdeaProjects/TestProject/out/
+
